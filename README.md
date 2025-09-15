@@ -1,11 +1,12 @@
 # FS_IshaanGujaran
 Problem Statement 1 - Student Commute Optimizer (Full Stack)
+
 ---
 
 ## MitraRide – Smart, Safe , Together.
 Commute withYour Friends or Make New Friends while Communtin !
 
----
+
 
 ## Problem Statement
 Daily student commutes are often unorganized, unsafe, and inefficient. Many students rely on public transport, private cabs, or riding alone, which leads to:
